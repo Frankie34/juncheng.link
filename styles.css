@@ -1,11 +1,3 @@
 .intro{
-  position: absolute;
-  top:0;
-  left: 0;
-  background-color: white;
-  width: 700px;
-  margin: 0 auto;
-  height: 100px;
 
-  box-sizing: border-box;
 }
