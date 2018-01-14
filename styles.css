@@ -1,3 +1,10 @@
-.banner{
-  width: 1260px;
+.intro{
+  position: absolute;
+  top:0;
+  left: 0;
+  background-color: white;
+  width: 700px;
+  height: 100px;
+
+  box-sizing: border-box;
 }
