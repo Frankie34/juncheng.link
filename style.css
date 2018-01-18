@@ -66,7 +66,7 @@ body {
 }
 
 img {
-	max-width:100%;
+	max-width:30%;
 }
 .fix {
 	overflow:hidden;
@@ -369,6 +369,12 @@ h6 {
 }
 .ml-20 {
     margin-left: 20px;
+}
+.ml-500{
+    margin-left: 500px;
+}
+.ml-800{
+    margin-left: 800px;
 }
 
 /*margin right
