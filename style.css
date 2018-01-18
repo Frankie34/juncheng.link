@@ -31,7 +31,7 @@ body{
     line-height: 24px;
     font-weight: 400;
     color: #C1DFF0;
-    background-color: #C1DFF0;
+    background-color: #f5f5f5;
     overflow-x: hidden;
     -webkit-text-size-adjust: 100%;
     -webkit-overflow-scrolling: touch;
@@ -605,7 +605,7 @@ h6 {
 	background: #202020 none repeat scroll 0 0;
 }
 .bg-color-1 {
-	background: #C1DFF0 none repeat scroll 0 0;
+	background: #f5f5f5 none repeat scroll 0 0;
 }
 .bg-color-2 {
 	background: #393939 none repeat scroll 0 0;
